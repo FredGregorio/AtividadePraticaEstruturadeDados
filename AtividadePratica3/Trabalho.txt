@@ -1,5 +1,0 @@
-Jogo de Cartas com Baralho, Descarte e Fila de Ações dos Jogadores
-(Grupo 4): Crie um jogo de cartas simples. Utilize uma pilha para representar o
-baralho de onde as cartas são compradas e outra para o monte de descarte. Uma
-fila deve ser usada para gerenciar o turno dos jogadores e suas ações
-

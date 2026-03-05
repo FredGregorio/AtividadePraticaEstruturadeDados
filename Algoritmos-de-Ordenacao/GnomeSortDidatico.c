@@ -55,4 +55,3 @@ int main(){
     return 0;
 }
 
-//gcc GnomeSortDidatico.c -o GSD; ./GSD

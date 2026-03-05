@@ -71,3 +71,5 @@ O projeto está organizado nos seguintes arquivos:
 3. **Vitória**: O primeiro jogador que ficar sem cartas na mão vence o jogo!
 
 
+## Licença
+Este projeto está licenciado sob a [MIT License](LICENSE).

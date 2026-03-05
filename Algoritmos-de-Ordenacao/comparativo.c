@@ -93,4 +93,3 @@ int main(){
     return 0;
 }
 
-//gcc comparativo.c sort.c -o comparativo; ./comparativo
